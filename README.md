@@ -143,15 +143,23 @@ An AI-focused project created as part of a hackathon project.
 
 # 📊 GitHub Analytics
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" alt="Ainjana's GitHub Statistics" />
+<img
+  src="./profile/stats.svg"
+  width="49%"
+  alt="Ainjana's GitHub Statistics"
+/>
 
-<img src="./profile/top-langs.svg" width="49%" alt="Ainjana's Top Languages" />
+<img
+  src="./profile/top-langs.svg"
+  width="49%"
+  alt="Ainjana's Top Languages"
+/>
 
 </div>
-
----
 
 # 🔥 Contribution Streak
 
