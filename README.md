@@ -18,7 +18,12 @@
 - 📫 How to reach me **ainjanajomon@gmail.com**
 
 - ⚡ Fun fact **Every project I build teaches me something new.**
+## 🚀 Projects I Contributed To
 
+### Project Name
+I contributed to this project as a collaborator.
+
+[View Project](https://github.com/akshyaanand-tech/Oral_Ai)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ainjanajomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ainjanajomon" height="30" width="40" /></a>
