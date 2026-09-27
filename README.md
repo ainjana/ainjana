@@ -183,15 +183,7 @@ An AI-focused project created as part of a hackathon project.
 
 </div>
 
-# 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="./profile/streak.svg" width="70%" alt="Ainjana's GitHub Contribution Streak" />
-
-</div>
-
----
 
 # 📈 Contribution Activity
 
