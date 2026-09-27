@@ -242,10 +242,6 @@ An AI-focused project developed as part of a hackathon and collaborative develop
 </p>
 
 ---
-
-# 📊 GitHub Analytics
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -273,6 +269,8 @@ An AI-focused project developed as part of a hackathon and collaborative develop
 <br>
 
 <div align="center">
+
+
 
 ## 🔥 Contribution Streak
 
