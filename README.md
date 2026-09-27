@@ -141,10 +141,13 @@ An AI-focused project created as part of a hackathon project.
 
 ---
 
-# 📊 GitHub Analytics
-
+<!-- ========================================================= -->
+<!--                    GITHUB STATISTICS                     -->
+<!-- ========================================================= -->
 
 <div align="center">
+
+<h2>📊 GitHub Statistics</h2>
 
 <img
   src="./profile/stats.svg"
@@ -156,6 +159,26 @@ An AI-focused project created as part of a hackathon project.
   src="./profile/top-langs.svg"
   width="49%"
   alt="Ainjana's Top Languages"
+/>
+
+<br><br>
+
+<h2>🔥 Contribution Streak</h2>
+
+<img
+  src="https://streak-stats.demolab.com/?user=ainjana&theme=tokyonight&hide_border=true&border_radius=12"
+  width="70%"
+  alt="Ainjana's Contribution Streak"
+/>
+
+<br><br>
+
+<h2>📈 Contribution Activity</h2>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ainjana&bg_color=0D1117&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true"
+  width="95%"
+  alt="Ainjana's Contribution Activity"
 />
 
 </div>
