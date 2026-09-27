@@ -244,22 +244,16 @@ An AI-focused project developed as part of a hackathon and collaborative develop
 ---
 
 # 📊 GitHub Analytics
+<a href="https://github.com/ainjana"> <img src="https://github-readme-stats.vercel.app/api?username=ainjana&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&custom_title=Ainjana%27s%20GitHub%20Analytics" width="49%" alt="GitHub Analytics" /> </a>
+
+<a href="https://github.com/ainjana"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainjana&layout=donut&langs_count=8&hide_border=true&theme=tokyonight&custom_title=Languages%20I%20Use" width="49%" alt="Top Languages" /> </a>
+
+</div>
+
+<br>
 
 <div align="center">
 
-<a href="https://github.com/ainjana">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ainjana&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Ainjana's GitHub Stats" />
-
-</a>
-
-<a href="https://github.com/ainjana">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainjana&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Ainjana's Top Languages" />
-
-</a>
-
-</div>
 
 ---
 
