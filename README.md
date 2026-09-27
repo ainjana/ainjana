@@ -244,9 +244,29 @@ An AI-focused project developed as part of a hackathon and collaborative develop
 ---
 
 # 📊 GitHub Analytics
-<a href="https://github.com/ainjana"> <img src="https://github-readme-stats.vercel.app/api?username=ainjana&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&custom_title=Ainjana%27s%20GitHub%20Analytics" width="49%" alt="GitHub Analytics" /> </a>
+---
 
-<a href="https://github.com/ainjana"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainjana&layout=donut&langs_count=8&hide_border=true&theme=tokyonight&custom_title=Languages%20I%20Use" width="49%" alt="Top Languages" /> </a>
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/ainjana">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ainjana&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    alt="Ainjana's GitHub Analytics"
+    height="180"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/ainjana">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainjana&layout=donut&langs_count=8&hide_border=true&theme=tokyonight"
+    alt="Ainjana's Top Languages"
+    height="180"
+  />
+</a>
 
 </div>
 
@@ -254,8 +274,46 @@ An AI-focused project developed as part of a hackathon and collaborative develop
 
 <div align="center">
 
+## 🔥 Contribution Streak
 
----
+<a href="https://github.com/ainjana">
+  <img
+    src="https://streak-stats.demolab.com/?user=ainjana&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="Ainjana's GitHub Contribution Streak"
+  />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📈 Contribution Activity
+
+<a href="https://github.com/ainjana">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ainjana&theme=tokyo-night&hide_border=true&area=true"
+    alt="Ainjana's Contribution Activity Graph"
+    width="95%"
+  />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=ainjana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+  alt="Ainjana's GitHub Trophies"
+  width="95%"
+/>
+
+</div>
 
 ## ⭐ GitHub Overview
 
