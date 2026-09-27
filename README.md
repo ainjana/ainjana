@@ -1,46 +1,48 @@
 <!-- ========================================================= -->
+
 <!--                    AINJANA JOMON                          -->
+
 <!--                  GitHub Profile README                    -->
+
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:A855F7&height=220&section=header&text=Ainjana%20Jomon&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2CBF,100:A855F7&height=220&section=header&text=AINJANA%20JOMON&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=20&descColor=E9D5FF" width="100%" />
 
-# 👋 Hey, I'm Ainjana Jomon
+# 👋 Hey, I'm **AINJANA JOMON**
 
-### 💜 Developer • 🎓 CS Engineering Student • 🚀 Builder
+### 💻 Developer • 🎓 CS Engineering Student • 🚀 Builder
 
 <p align="center">
   <a href="https://github.com/ainjana">
-    <img src="https://img.shields.io/github/followers/ainjana?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6D28D9" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/ainjana?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=7B2CBF" alt="GitHub Followers" />
   </a>
 
   <a href="https://github.com/ainjana?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-Explore-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 
   <a href="https://github.com/ainjana">
-    <img src="https://komarev.com/ghpvc/?username=ainjana&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ainjana&style=for-the-badge&color=7B2CBF&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ainjana">
-    <img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <a href="https://www.linkedin.com/in/ainjana-jomon-78307837b">
-    <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="mailto:ainjanajomon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 </div>
-
 
 
 ## 🧑‍💻 About Me
