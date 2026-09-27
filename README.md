@@ -143,7 +143,6 @@ An AI-focused project created as part of a hackathon project.
 
 # 📊 GitHub Analytics
 
-<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
