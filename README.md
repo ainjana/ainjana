@@ -20,7 +20,7 @@
 - ⚡ Fun fact **Every project I build teaches me something new.**
 ## 🚀 Projects I Contributed To
 
-### Project Name
+### Oral-Ai
 I contributed to this project as a collaborator.
 
 [View Project](https://github.com/akshyaanand-tech/Oral_Ai)
